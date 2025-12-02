@@ -1,3 +1,1 @@
-# Proyecto Final Programacion avanzada
-
-Este proyecto contiene todo el código del aplicativo que representa el proyecto final del espacio academico
+Final project for the advanced programming course. A class program design based on an online marketplace where users can register, publish products, buy items, leave comments, manage favorites, and interact with moderators who approve or reject product listings. It is not complete.
